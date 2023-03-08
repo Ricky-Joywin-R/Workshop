@@ -1,0 +1,40 @@
+.background{
+    background-image: url("https://wallpapercave.com/dwp2x/PMT0gVj.jpg");
+}
+form {
+    border: 3px solid #f1f1f1;
+    border-radius: 20px;
+    margin: 200px;
+    font-weight: bold;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 30%;
+    padding: 2px 2px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 50px 50px;
+    border-radius: 5px;
+    border:none;
+    cursor: pointer;
+    width: 30%;
+  }
+  button:hover {
+    opacity: 0.8;
+  }
+   /* body{
+
+    background-size:100%,100%;
+    background-image: url(2875614.jpg);
+    background-repeat: no-repeat;
+  }  */
